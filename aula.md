@@ -7,7 +7,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 
 ## PPeças de uma linguaguem
 
-- Comentários
+- Comentários [x]
 - Declaração de variáveis (cont, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (function, object, array)
@@ -16,6 +16,21 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 
 # Fases de resolução de problema
 
-- Coletar os dados
-- Processar os dados (manipular, alterar, gerenciar...)
-- Apresentar os dados 
+- Coletar os dados [x]
+- Processar os dados (manipular, alterar, gerenciar...) [x]
+- Apresentar os dados [x]
+
+## Escopo e variáveis
+
+- Variáveis globais e locais
+- Constantes
+
+
+# ## Tipos de dados:
+
+Strings (textos) : "" ' ' ``
+Number: 2 1.4 
+
+## Operadores
+
+- Operador de atribuição de valor
