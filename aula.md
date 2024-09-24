@@ -56,3 +56,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 - Criar, passar argumento [x]
 - Executar [x]
 - Arroz function / named function [x]
+
+## Estrutura de repetição
+
+- while [a]
