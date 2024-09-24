@@ -22,15 +22,37 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 
 ## Escopo e variáveis
 
-- Variáveis globais e locais
-- Constantes
+- Variáveis globais e locais [x]
+- Constantes [x]
 
 
 # ## Tipos de dados:
 
-Strings (textos) : "" ' ' ``
-Number: 2 1.4 
+- Strings (textos) : "" ' ' ``  [x]
+- Number: 2 1,4   [x]
+- Boolean: True/false [x]
+ 
 
 ## Operadores
 
-- Operador de atribuição de valor
+- Operador de atribuição de valor [x] =
+- Operador de contatenação [x]
+
+## Estrutura de dados
+
+
+
+### Arrays
+
+- Uma lista que contém qualquer tipo de dado [x]
+
+## Objetos:
+
+- Atriburos e métodos [x]
+- Criação e manipulação de objetos [x]
+- Acesso a prioridades de objetos [x]
+
+## Function
+- Criar, passar argumento [x]
+- Executar [x]
+- Arroz function / named function [x]
