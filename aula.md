@@ -59,4 +59,8 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 
 ## Estrutura de repetição
 
-- while [a]
+- while [x]
+
+# Condicionais
+
+- switch [x]
