@@ -64,3 +64,12 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 # Condicionais
 
 - switch [x]
+
+# Módulos em Node.JS
+
+- Importação de módulos (requirer, commonJS) [x]
+- Biblioteca 'inquirer' para criar prompts interativos [x]
+
+# Programação assincronas e promises:
+
+- Uso de funcções assincronas (async/await) [x]
