@@ -8,11 +8,12 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 ## PPeças de uma linguaguem
 
 - Comentários [x]
-- Declaração de variáveis (cont, let)
+- Declaração de variáveis (cont, let) [x]
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (function, object, array)
-- Controle de fluxo (if/else)
-- Estrutura de repetição (for,while)
+- Estrutura de dados (function, object,array) [x]
+- Controle de fluxo (if/else)  [x]
+- Estrutura de repetição (for,while) [x]
 
 # Fases de resolução de problema
 
@@ -37,6 +38,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 
 - Operador de atribuição de valor [x] =
 - Operador de contatenação [x]
+- Operadores de comparação == != 1<2 <= >= 1>2
 
 ## Estrutura de dados
 
@@ -64,6 +66,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 # Condicionais
 
 - switch [x]
+if/else [x]
 
 # Módulos em Node.JS
 
