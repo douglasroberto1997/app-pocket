@@ -9,8 +9,8 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 
 - Comentários [x]
 - Declaração de variáveis (cont, let) [x]
-- Operadores (atribuição, concatenação, matemáticos, lógicos)
-- Tipos de dados (function, object, array)
+- Operadores (atribuição, concatenação, matemáticos, lógicos) [x]
+- Tipos de dados (function, object, array) [x]
 - Estrutura de dados (function, object,array) [x]
 - Controle de fluxo (if/else)  [x]
 - Estrutura de repetição (for,while) [x]
@@ -38,7 +38,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 
 - Operador de atribuição de valor [x] =
 - Operador de contatenação [x]
-- Operadores de comparação == != 1<2 <= >= 1>2
+- Operadores de comparação == != 1<2 <= >= 1>2  [x]
 
 ## Estrutura de dados
 
