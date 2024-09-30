@@ -39,6 +39,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 - Operador de atribuição de valor [x] =
 - Operador de contatenação [x]
 - Operadores de comparação == != 1<2 <= >= 1>2  [x]
+- Spread operator : ...
 
 ## Estrutura de dados
 
@@ -47,6 +48,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 ### Arrays
 
 - Uma lista que contém qualquer tipo de dado [x]
+- Métodos de array: psuh, find,filter, forEach - HOF (Higher Order Function) [x]
 
 ## Objetos:
 
