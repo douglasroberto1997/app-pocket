@@ -48,7 +48,7 @@ Como um lego, você irá utilizar peças para criar algoritinos, ou seja, para r
 ### Arrays
 
 - Uma lista que contém qualquer tipo de dado [x]
-- Métodos de array: psuh, find,filter, forEach - HOF (Higher Order Function) [x]
+- Métodos de array: psuh, find,filter,map, forEach - HOF (Higher Order Function) [x]
 
 ## Objetos:
 
