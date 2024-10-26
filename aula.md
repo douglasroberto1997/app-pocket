@@ -74,6 +74,13 @@ if/else [x]
 
 - Importação de módulos (requirer, commonJS) [x]
 - Biblioteca 'inquirer' para criar prompts interativos [x]
+- FS (File system)
+
+##  JSON
+
+- JavaScript Objet Notation (.json)
+- JSON.parse(): transforma de json para JS
+- JSON.stringnify(): transforma de js para JSON
 
 # Programação assincronas e promises:
 
